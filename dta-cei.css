@@ -1,0 +1,101 @@
+tei-hi[endition="#aq"] {
+  font-family: sans-serif;
+}
+
+tei-hi[endition="#b"] {
+  font-weight: bold;
+}
+
+tei-hi[endition="#blue"] {
+  color: blue;
+}
+
+tei-hi[endition="#c"] {
+  display: block;
+  text-align: center;
+}
+
+tei-hi[endition="#et"] {
+  display: block;
+  margin-left: 2em;
+  text-indent: 0;
+}
+
+tei-hi[endition="#f"] {
+  border: 1px dotted silver;
+}
+
+tei-hi[endition="#fr"] {
+  border: 1px dotted silver;
+}
+
+tei-hi[endition="#g"] {
+  letter-spacing: 0.125em;
+}
+
+tei-hi[endition="#i"] {
+  font-style: italic;
+}
+
+tei-hi[endition="#in"] {
+  font-size: 150%;
+}
+
+tei-hi[endition="#k"] {
+  font-variant: small-caps;
+}
+
+tei-hi[endition="#red"] {
+  color: red;
+}
+
+tei-hi[endition="#right"] {
+  display: block;
+  text-align: right;
+}
+
+tei-hi[endition="#sub"] {
+  vertical-align: sub;
+  font-size: .7em;
+}
+
+tei-hi[endition="#sup"] {
+  vertical-align: super;
+  font-size: .7em;
+}
+
+tei-hi[endition="#u"] {
+  text-decoration: underline;
+}
+
+tei-hi[endition="#uu"] {
+  border-bottom: double 3px #000;
+}
+
+tei-hi[endition="#v"] {
+  ;
+}
+
+tei-hi[endition="#s"] {
+  text-decoration: line-through;
+}
+
+tei-hi[endition="#et2"] {
+  display: block;
+  margin-left: 4em;
+  text-indent: 0;
+}
+
+tei-hi[endition="#et3"] {
+  display: block;
+  margin-left: 6em;
+  text-indent: 0;
+}
+
+tei-hi[endition="#smaller"] {
+  font-size: smaller;
+}
+
+tei-hi[endition="#larger"] {
+  font-size: larger
+}
