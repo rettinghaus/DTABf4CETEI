@@ -101,3 +101,8 @@ tei-hi[rendition="#smaller"] {
 tei-hi[rendition="#larger"] {
   font-size: larger
 }
+
+tei-lb:before {
+  content: '\A';
+  white-space: pre;
+}
